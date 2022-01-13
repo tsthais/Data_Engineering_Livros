@@ -29,7 +29,6 @@ Os livros para troca, são enviados pelos próprios usuários através de um bot
 Logo, antes de construir um sistema de recomendação, você precisa coletar e armazenar os dados do site. Portanto seu primeiro trabalho como um Data Scientist será coletar e armazenar os seguintes dados:
 
 - O nome do livro;
-- A categoria do livro;
 - O número de estrelas que o livro recebeu;
 - O preço do livro;
 - Se o livro está em Estoque ou não.
